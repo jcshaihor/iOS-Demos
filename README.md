@@ -1,4 +1,4 @@
-# iOS-Demos
+# iOS Demos
 * Tool: Xcode
 * Language: Swift
 * Class: CSUF cpsc-411
